@@ -73,9 +73,9 @@ body {
   font-weight: 600;
 }
 .btn {
-  height: 50px;
-  width: 300px;
-  font-size: 0.9rem;
+  height: 40px;
+  width: 250px;
+  font-size: 0.8rem;
   padding: 10px 20px;
   margin: 50px 0;
   border-radius: 10px;
@@ -92,5 +92,10 @@ body {
   .content h3 {
     font-size: 1.5rem;
     font-weight: 600;
+  }
+  .btn {
+    height: 50px;
+    width: 300px;
+    font-size: 0.9rem;
   }
 }
